@@ -109,4 +109,3 @@ Ecommerce-Sales-Analysis/
 ├── README.md
 ├── Ecommerce_Sales_Analysis.ipynb
 ├── Sample - Superstore.csv
-└── ecommerce_sales.db
